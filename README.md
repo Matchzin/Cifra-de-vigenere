@@ -5,7 +5,7 @@ Para rodar o script, no seu terminal, execute os seguintes comandos (Windows):
 
 Caso não tenha python instalado, deverá baixar no site oficial do Python:
 
-[Link do site oficial do Python: ](https://python.org/downloads/)
+[Link do site oficial do Python](https://python.org/downloads/)
 
 Após a instalação ter sido feita, entre no terminal e digite:
 
